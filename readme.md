@@ -429,6 +429,12 @@ dev           D ---- E
 
 可以在 `dev` 分支尝试新功能，不影响 `main`。
 
+切换分支
+```text
+git switch -c dev
+```
+创建并切换到dev分支
+-c 是create的意思
 ---
 
 # 15. 第一次创建项目并上传 GitHub
